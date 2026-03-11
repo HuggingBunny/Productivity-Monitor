@@ -1,5 +1,6 @@
 # Machine-specific data — never commit
 data/
+*.db
 
 # Deploy config contains hostnames/IPs
 .deployrc
