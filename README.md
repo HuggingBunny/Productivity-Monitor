@@ -75,7 +75,7 @@ No data leaves your machine. No accounts. No subscriptions.
 Open a terminal (Terminal on macOS/Linux, Command Prompt or PowerShell on Windows) and run:
 
 ```bash
-git clone https://github.com/autisticcaveman/productivity-monitor.git
+git clone https://github.com/HuggingBunny/Productivity-Monitor.git
 cd productivity-monitor
 ```
 
@@ -278,7 +278,7 @@ Export and restore your configuration and category rules.
 Each machine clones the repo and runs `install.py` independently. Activity data stays local to each machine. Recommendations can optionally be shared.
 
 ```bash
-git clone https://github.com/autisticcaveman/productivity-monitor.git
+git clone https://github.com/HuggingBunny/Productivity-Monitor.git
 cd productivity-monitor
 python3 install.py
 ```
